@@ -42,7 +42,7 @@ The objective is to derive meaningful insights at **Match, Team, and Player** le
 - Strike rate comparison highlights aggressive modern batters who contribute quick runs even with fewer deliveries.
 - Economy rate analysis reveals bowlers who control runs effectively despite not always being among the top wicket-takers.
 
-- # Conclusion:
+# Conclusion:
 
 The IPL Cricket Analytics dashboard provides a comprehensive and interactive view of tournament performance across seasons.
 From the analysis:
