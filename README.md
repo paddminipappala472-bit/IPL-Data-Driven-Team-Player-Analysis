@@ -17,6 +17,12 @@ The objective is to derive meaningful insights at **Match, Team, and Player** le
 2. SQL queries were written to analyze match, team, and player performance  
 3. Interactive dashboards were built in Power BI with KPIs, slicers, tooltips, and charts  
 
+## Dashboard Pages
+<img width="1498" height="737" alt="Match Analysis" src="https://github.com/user-attachments/assets/d0d45758-d3d3-474c-859d-3a54d3189d97" />
+<img width="1240" height="739" alt="Team Analysis" src="https://github.com/user-attachments/assets/b9cdd1e1-0f95-4530-996e-b66f31f418e9" />
+<img width="1097" height="738" alt="Player Analysis_1" src="https://github.com/user-attachments/assets/5a0b6590-cb48-4ec2-9586-5d49250cdf85" />
+<img width="1103" height="733" alt="Player Analysis_2" src="https://github.com/user-attachments/assets/70444620-b071-41f8-a9cd-24cc0e06db29" />
+
 
 ## Dashboards
 ## Match Analysis – Key Insights
