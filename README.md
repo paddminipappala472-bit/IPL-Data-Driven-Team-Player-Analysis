@@ -1,4 +1,4 @@
-# IPL Cricket Analytics (2008–2025)
+# IPL Cricket (2008–2025) Performance & Match Outcome Analytics
 
 ## Project Overview
 This project presents an end-to-end analysis of Indian Premier League (IPL) cricket data using **Python, SQL, and Power BI**.  
