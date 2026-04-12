@@ -7,7 +7,7 @@ This project analyzes player and team performance in the Indian Premier League (
 In competitive leagues like the Indian Premier League, understanding player and team performance is essential for strategic decision-making. This project aims to identify key performance factors influencing match outcomes.
 
 ### 🔹 Dataset
-* Dataset used: IPL Dataset (Kaggle)
+* Dataset used: IPL match and player data (JSON format) collected from web source.
 * This dataset includes match details, player statistics, and team performance metrics used for analysis.
 * Note: Dataset not uploaded due to size limitations.
 
@@ -24,9 +24,10 @@ In competitive leagues like the Indian Premier League, understanding player and 
 - **Excel** – Query result validation and exports   
 
 ### 🔹 Workflow
-* Cleaned and structured IPL dataset
-* Analyzed player performance metrics
-* Compared team-wise statistics
+* Collected IPL dataset in JSON format
+* Converted JSON data into structured format for analysis
+* Cleaned and prepared dataset
+* Performed player and team performance analysis
 * Visualized insights using charts
 
 ### 🔹 Key Insights & Business Impact
