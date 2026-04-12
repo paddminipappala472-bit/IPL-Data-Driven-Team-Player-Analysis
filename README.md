@@ -1,3 +1,36 @@
+# IPL Player & Team Performance Analysis
+
+### 🔹 Project Overview
+This project analyzes player and team performance in the Indian Premier League (IPL) to evaluate key metrics such as runs, strike rate, and match outcomes, providing insights into team strategies and player contributions.
+
+### 🔹 Problem Statement
+In competitive leagues like the Indian Premier League, understanding player and team performance is essential for strategic decision-making. This project aims to identify key performance factors influencing match outcomes.
+
+### 🔹 Dataset
+* Dataset used: IPL Dataset (Kaggle)
+* This dataset includes match details, player statistics, and team performance metrics used for analysis.
+* Note: Dataset not uploaded due to size limitations.
+
+### 🔹 Tools Used
+* Excel
+* Data Analysis
+* Data Visualization
+
+### 🔹 Workflow
+* Cleaned and structured IPL dataset
+* Analyzed player performance metrics
+* Compared team-wise statistics
+* Visualized insights using charts
+
+### 🔹 Key Insights & Business Impact
+* Analyzed player performance metrics such as runs and strike rate, identifying key contributors to team success
+* Compared team performance across matches, highlighting differences in win consistency and match outcomes
+* Identified top-performing players based on statistical analysis, supporting data-driven team selection
+* Evaluated performance trends to understand factors influencing match results
+
+### 🔹 Dashboard
+![Dashboard](images/your-image-name.png)
+
 # IPL Cricket (2008–2025) Performance & Match Outcome Analytics
 
 ## Project Overview
